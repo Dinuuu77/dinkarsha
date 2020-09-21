@@ -1,5 +1,7 @@
 This is my first file
 This is my modified file.
 This is my third file.
-This is my fourth file
+This is my fourth file.
+This is my fifth file.
+This is my sixth file.
 
